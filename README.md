@@ -1,5 +1,5 @@
 # praktikum_minggu_2
-![gambar 1](tugas.jpg)
+![gambar 1](images/tugas.jpg)
 
 A new Flutter project.
 
